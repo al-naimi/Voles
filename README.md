@@ -4,7 +4,7 @@ Voles are social animals used for behavior studies
 Project purpose:
 utilizing machine learning for finding insights from complext systems such as behavior, sociology, management, climate, operations, etc.
 
-Introduction
+Introduction:
 One of the analytical problems that face science, administration, and different work operations is unability of classical analyses* to show obvious difference between the involved factors. Also, in some instances, the difference between the involved factors cannot be handled by classical analyses for producing insight. This project is for utilizing machine learning algorithms to produce insight from the results of classical analyses.
 
 The project includes the following:
